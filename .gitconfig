@@ -1,0 +1,8 @@
+[user]
+	name = “shastish”
+	email = “psureshece@gmail.com”
+[core]
+	editor = vim
+	compression = 2
+[diff]
+	tool = vim.diff
